@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolioreact/static/css/main.f207f445.css",
-    "main.js": "/portfolioreact/static/js/main.2141bc6e.js",
-    "static/media/img8.jpg": "/portfolioreact/static/media/img8.f5d24f842065575ca0c5.jpg",
-    "static/media/about_01.jpg": "/portfolioreact/static/media/about_01.fb0dac3f4746e50284a8.jpg",
-    "static/media/pfp2.jpg": "/portfolioreact/static/media/pfp2.536f4d5c4b346c24b259.jpg",
-    "static/media/img5.jpg": "/portfolioreact/static/media/img5.374376c9d5ca3b870196.jpg",
-    "index.html": "/portfolioreact/index.html",
-    "main.f207f445.css.map": "/portfolioreact/static/css/main.f207f445.css.map",
-    "main.2141bc6e.js.map": "/portfolioreact/static/js/main.2141bc6e.js.map"
+    "main.css": "/gaurangmehra/portfolioreact/static/css/main.65d7eb54.css",
+    "main.js": "/gaurangmehra/portfolioreact/static/js/main.1cef2d4a.js",
+    "static/media/img8.jpg": "/gaurangmehra/portfolioreact/static/media/img8.f5d24f842065575ca0c5.jpg",
+    "static/media/about_01.jpg": "/gaurangmehra/portfolioreact/static/media/about_01.fb0dac3f4746e50284a8.jpg",
+    "static/media/pfp2.jpg": "/gaurangmehra/portfolioreact/static/media/pfp2.536f4d5c4b346c24b259.jpg",
+    "static/media/img5.jpg": "/gaurangmehra/portfolioreact/static/media/img5.374376c9d5ca3b870196.jpg",
+    "index.html": "/gaurangmehra/portfolioreact/index.html",
+    "main.65d7eb54.css.map": "/gaurangmehra/portfolioreact/static/css/main.65d7eb54.css.map",
+    "main.1cef2d4a.js.map": "/gaurangmehra/portfolioreact/static/js/main.1cef2d4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f207f445.css",
-    "static/js/main.2141bc6e.js"
+    "static/css/main.65d7eb54.css",
+    "static/js/main.1cef2d4a.js"
   ]
 }
